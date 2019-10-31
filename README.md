@@ -133,3 +133,5 @@ Mobile and Tablet:
   Samsung Galaxy Tab 2, Tab 4
   Android Mobile (2.3,3.1,4.1,4.0.2,4.4.4.5.1)
 
+Contact:
+For more details, contact by email at vijayasarathid@gmail.com
